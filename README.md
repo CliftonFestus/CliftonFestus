@@ -4,13 +4,17 @@ I am Clifton Festus Malvea. I am a Junior majoring in CSE at Thapar Institue of 
 
 <br>
 
-# A litle about me
+# A little about me
 Dedicated and motivated technologist with experience in Development, Machine Learning and Networking. Adept at managing large scale projects. Committed to grow further in the field of Computer Science in terms of both skill and experience.
 <br>
 # Experience
 
 ### Analytics and Machine Learning: 
-    Web Scraping, Natural Language Processing, Visualisation, -Cleaning, and Structuring firm level data for generating actionable insights.
+    Web Scraping
+    Natural Language Processing
+    Visualisation
+    Cleaning
+    Structuring firm level data for generating actionable insights.
 ### Web development
 ### Content Writing
 ### Wildlife Research 
